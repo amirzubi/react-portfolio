@@ -3,10 +3,11 @@ import TypeWriter from "react-typewriter";
 
 const Header = ({ data }) => {
   if (data) {
-    var name = data.name;
+    var nickname = data.nickname;
     var occupation = data.occupation;
     var description = data.description;
     var city = data.address.city;
+    var country = data.address.country;
     var networks = data.social.map(function (network) {
       return (
         <li key={network.name}>
@@ -65,10 +66,13 @@ const Header = ({ data }) => {
       <div className="row banner">
         <div className="banner-text">
           <h1 className="responsive-headline">
-            <TypeWriter typing={0.5}>{name ? `I'm ${name}.` : null}</TypeWriter>
+            <TypeWriter typing={0.5}>
+              {nickname ? `I'm ${nickname}.` : null}
+            </TypeWriter>
           </h1>
           <h3>
-            Based in {city}. <span>{occupation}</span>. {description}.
+            Based in {city}, {country}. <span>{occupation}</span>. {description}
+            .
           </h3>
           <hr />
           <ul className="social">{networks}</ul>

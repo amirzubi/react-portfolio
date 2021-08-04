@@ -1,46 +1,37 @@
 {
   "main": {
-    "name": "Sonny Sangha",
-    "occupation": "CEO of PAPA",
-    "description": "I eat, sleep and breathe React",
+    "name": "Pascal Amir Zubi",
+    "nickname": "Amir",
+    "occupation": "Web Designer",
+    "description": "I think digital",
     "image": "profilepic.jpg",
-    "bio": "Hi there! I am Sonny! You might also know me as PAPA React. I've been coding for over 10 years now. As a Full Stack developer I've worked both with startups and large corporations to help build & scale their companies. Along the journey I realised my passion existed in helping others excel and pursue their dreams as upcoming developers. With this passion, I have now trained thousand's of developers across the globe. Through live coaching sessions on Youtube, I have accumulated several MILLION views demonstrating how to apply developer skills in a range of cool builds and challenges. I deliver REAL VALUE by teaching REAL WORLD projects to help students enter the world of web development. You’ll get hands-on experience and learn the skills that are required to succeed in the real-world in this community.",
-    "contactmessage": "Get in touch with me to be a part of the PAPA fam!",
-    "email": "papareact.team@gmail.com",
-    "phone": "+44 1234567899",
+    "bio": "My name is Pascal Amir Zubi, but you can just call me Amir. I turned 24 this year, as time flies. I live in St.Gallen, Schweiz, next to the small town Wittenbach, where I grew up. Already with the choice of the business school with a focus on information science after the upper level, I laid the foundation stone for a career characterized by computer science.",
+    "contactmessage": "Get in touch.",
+    "email": "hello@pazu.ch",
+    "phone": "+41 78 717 11 86",
     "address": {
-      "street": "123 Dev Lane",
-      "city": "London",
-      "state": "Devosphere",
-      "zip": "W3B D3V"
+      "city": "St.Gallen",
+      "state": "St.Gallen",
+      "zip": "9000",
+      "country": "Switzerland"
     },
-    "website": "https://www.papareact.com/course",
-    "resumedownload": "http://papareact.com",
+    "website": "https://www.pazu.ch/",
+    "resumedownload": "https://pazu.ch/",
     "social": [
       {
-        "name": "youtube",
-        "url": "https://www.youtube.com/channel/UCqeTj_QAnNlmt7FwzNwHZnA",
-        "className": "fa fa-youtube"
-      },
-      {
-        "name": "facebook",
-        "url": "https://www.facebook.com/sonny.sangha.3",
-        "className": "fa fa-facebook"
-      },
-      {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/saajansangha",
+        "url": "https://www.linkedin.com/in/pascalamirzubi",
         "className": "fa fa-linkedin"
       },
       {
-        "name": "instagram",
-        "url": "https://www.instagram.com/ssssangha/",
-        "className": "fa fa-instagram"
+        "name": "github",
+        "url": "https://github.com/amirzubi",
+        "className": "fa fa-github"
       },
       {
-        "name": "github",
-        "url": "https://github.com/PapaReact",
-        "className": "fa fa-github"
+        "name": "instagram",
+        "url": "https://www.instagram.com/amirzoubi/",
+        "className": "fa fa-instagram"
       }
     ]
   },
@@ -48,74 +39,185 @@
     "skillmessage": "My Programming Language Proficiency",
     "education": [
       {
-        "school": "University of Kent - UK",
-        "degree": "Bachelor's Degree, Computer Science",
-        "graduated": "July 2016",
-        "description": "Graduated with First Class Honours"
+        "school": "The University of Applied Sciences HTW Chur",
+        "degree": "Bachelor of Science FHO in Information Science Major Digital Business Management",
+        "graduated": "September 2021",
+        "description": "Digital Innovation, User Experience, Information Technology"
       }
     ],
     "work": [
       {
-        "company": "PAPA",
-        "title": "Founder and CEO",
-        "years": "May 2019 - Present",
-        "description": "Cloning all the apps possible. On the way to clone the world! Building the PAPA Fam as large as possible."
+        "company": "pazu.ch",
+        "title": "Owner & Founder",
+        "years": "Apr 2019 - Present"
+      },
+      {
+        "company": "R17 Ventures AG",
+        "title": "Senior Web Developer",
+        "years": "Dec 2019 - Jul 2021"
+      },
+      {
+        "company": "Paastoa",
+        "title": "CTO & Co-Founder",
+        "years": "Jan 2020 - Jul 2021"
+      },
+      {
+        "company": "SCHUBIGER Haushalt",
+        "title": "Commercial Advisor",
+        "years": "Nov 2016 - Feb 2017"
+      },
+      {
+        "company": "Strasseninspektorat Stadt St.Gallen",
+        "title": "Commercial Advisor",
+        "years": "Feb 2015 - Feb 2016"
       }
     ],
     "skills": [
       {
-        "name": "ReactJs",
-        "level": "100%"
+        "name": "User Experience Design",
+        "level": "90%"
       },
       {
-        "name": "Python",
+        "name": "Web Design",
+        "level": "90%"
+      },
+      {
+        "name": "Project Management",
+        "level": "80%"
+      },
+      {
+        "name": "Figma",
         "level": "85%"
       },
       {
-        "name": "Git",
-        "level": "70%"
+        "name": "Adobe XD",
+        "level": "85%"
+      },
+      {
+        "name": "HTML",
+        "level": "90%"
+      },
+      {
+        "name": "CSS",
+        "level": "90%"
       },
       {
         "name": "JavaScript",
-        "level": "99%"
+        "level": "40%"
       },
       {
-        "name": "Web Development",
-        "level": "95%"
+        "name": "Python",
+        "level": "40%"
+      },
+      {
+        "name": "React.js",
+        "level": "30%"
       }
     ]
   },
   "portfolio": {
     "projects": [
       {
-        "title": "Snapchat Clone (React JS)",
-        "category": "",
-        "image": "snapchat.jpg",
-        "url": "https://youtu.be/1kGISk5ft2w"
+        "title": "Secondhandbags AG",
+        "category": "Webdesign",
+        "image": "webdesign.svg",
+        "url": "https://www.secondhandbags.ch/"
       },
       {
-        "title": "Gmail Clone (React JS)",
-        "category": "",
-        "image": "gmail.jpg",
-        "url": "https://youtu.be/b7nrXjS6Dqs"
+        "title": "R17 Ventures AG",
+        "category": "Webdesign",
+        "image": "webdesign.svg",
+        "url": "https://www.r17ventures.com/"
       },
       {
-        "title": "LinkedIn Clone (React JS)",
-        "category": "",
-        "image": "linkedin.jpg",
-        "url": "https://youtu.be/QaYts9sPmcY"
+        "title": "Beneva International AG",
+        "category": "Webdesign",
+        "image": "webdesign.svg",
+        "url": "https://www.benevablack.ch/"
+      },
+      {
+        "title": "7peppas AG",
+        "category": "Webdesign",
+        "image": "webdesign.svg",
+        "url": "https://www.7peppas.ch/"
+      },
+      {
+        "title": "Madisonclo GmbH",
+        "category": "Webdesign",
+        "image": "webdesign.svg",
+        "url": "https://www.madisonclo.com/"
+      },
+      {
+        "title": "Paastoa",
+        "category": "Webdesign",
+        "image": "webdesign.svg",
+        "url": "https://www.paastoa.com/"
+      },
+      {
+        "title": "Northventures GmbH",
+        "category": "Webdesign",
+        "image": "webdesign.svg",
+        "url": "https://www.northventures.ch/"
+      },
+      {
+        "title": "Michael Lechner",
+        "category": "Webdesign",
+        "image": "webdesign.svg",
+        "url": "https://www.michael-lechner.eu/"
+      },
+      {
+        "title": "Astro Life",
+        "category": "Webdesign",
+        "image": "webdesign.svg",
+        "url": "https://www.astro-life.ch/"
+      },
+      {
+        "title": "think digital",
+        "category": "Prototype",
+        "image": "prototype.svg",
+        "url": "https://xd.adobe.com/view/f3a0d8e7-674a-4b96-6fd3-6b03d1ae69e1-8591/"
+      },
+      {
+        "title": "John Maeda",
+        "category": "Prototype",
+        "image": "prototype.svg",
+        "url": "https://xd.adobe.com/view/a2cd9eee-8d0a-45ea-77e5-46933cd936f1-d4fc/"
+      },
+      {
+        "title": "todoo",
+        "category": "Repository",
+        "image": "github.svg",
+        "url": "https://github.com/amirzubi/todoo"
+      },
+      {
+        "title": "Facebook Data Visualizer",
+        "category": "Repository",
+        "image": "github.svg",
+        "url": "https://github.com/amirzubi/facebook-data-visualizer"
+      },
+      {
+        "title": "Morpheus",
+        "category": "Repository",
+        "image": "github.svg",
+        "url": "https://github.com/amirzubi/Morpheus"
+      },
+      {
+        "title": "Wordpress Code Snippets",
+        "category": "Repository",
+        "image": "github.svg",
+        "url": "https://github.com/amirzubi/wordpress-code-snippets"
       }
     ]
   },
   "testimonials": {
     "testimonials": [
       {
-        "text": "Sonny is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us... I would definitely recommend",
-        "user": "Jorge Fouto"
+        "text": "Pascal war sehr responsive, unkompliziert und kosteneffizient bei top Design und technischer Umsetzung auch für die kontinuierliche Weiterentwicklung von hartmannventures.com. Kann ich nur uneingeschränkt weiterempfehlen!",
+        "user": "Manuel Hartmann"
       },
       {
-        "text": "Learning with Sonny has been AWESOME, he makes learning React so easy and approachable, you'll finally feel like you know what's going on!",
-        "user": "Adam Curtis"
+        "text": "Ich habe mit Amir die Fastenplattform Paastoa.com gegründet und aufgebaut. Er hat dabei in seiner Rolle als CTO & CDO die technische Konzeption und Entwicklung geleitet. Ich schätze an Amir seine grossen technischen Fähigkeiten im Bereich Wordpress und CSS in Kombination mit seinem guten Auge für's Design. Amir denkt und handelt unternehmerisch ist zielstrebig und gibt Vollgas!",
+        "user": "Raphael Rohner"
       }
     ]
   }

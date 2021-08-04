@@ -12,6 +12,7 @@ const Contact = ({ data }) => {
     var city = data.address.city;
     var state = data.address.state;
     var zip = data.address.zip;
+    var country = data.address.country;
     var phone = data.phone;
     var contactEmail = data.email;
     var contactMessage = data.contactmessage;
@@ -123,13 +124,14 @@ const Contact = ({ data }) => {
             <p className="address">
               {contactName}
               <br />
-              {contactEmail}
+              <a href="mailto:hello@pazu.ch">{contactEmail}</a>
               <br />
               <br />
-              {street} <br />
-              {city}, {state} {zip}
+              {city}, {zip}
               <br />
-              <span>{phone}</span>
+              {country}
+              <br />
+              <a href="tel:+41787171186">{phone}</a>
             </p>
           </div>
         </aside>
