@@ -1,0 +1,224 @@
+{
+  "main": {
+    "name": "Pascal Amir Zubi",
+    "nickname": "Amir",
+    "occupation": "Web Designer",
+    "description": "I think digital",
+    "image": "profilepic.jpg",
+    "bio": "My name is Pascal Amir Zubi, but you can just call me Amir. I turned 24 this year, as time flies. I live in St.Gallen, Schweiz, next to the small town Wittenbach, where I grew up. Already with the choice of the business school with a focus on information science after the upper level, I laid the foundation stone for a career characterized by computer science.",
+    "contactmessage": "Get in touch.",
+    "email": "hello@pazu.ch",
+    "phone": "+41 78 717 11 86",
+    "address": {
+      "city": "St.Gallen",
+      "state": "St.Gallen",
+      "zip": "9000",
+      "country": "Switzerland"
+    },
+    "website": "https://www.pazu.ch/",
+    "resumedownload": "https://pazu.ch/",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/pascalamirzubi",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/amirzubi",
+        "className": "fa fa-github"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/amirzoubi/",
+        "className": "fa fa-instagram"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "The University of Applied Sciences HTW Chur",
+        "degree": "Bachelor of Science FHO in Information Science Major Digital Business Management",
+        "graduated": "September 2021",
+        "description": "Digital Innovation, User Experience, Information Technology"
+      }
+    ],
+    "work": [
+      {
+        "company": "pazu.ch",
+        "title": "Owner & Founder",
+        "years": "Apr 2019 - Present"
+      },
+      {
+        "company": "R17 Ventures AG",
+        "title": "Senior Web Developer",
+        "years": "Dec 2019 - Jul 2021"
+      },
+      {
+        "company": "Paastoa",
+        "title": "CTO & Co-Founder",
+        "years": "Jan 2020 - Jul 2021"
+      },
+      {
+        "company": "SCHUBIGER Haushalt",
+        "title": "Commercial Advisor",
+        "years": "Nov 2016 - Feb 2017"
+      },
+      {
+        "company": "Strasseninspektorat Stadt St.Gallen",
+        "title": "Commercial Advisor",
+        "years": "Feb 2015 - Feb 2016"
+      }
+    ],
+    "skills": [
+      {
+        "name": "User Experience Design",
+        "level": "90%"
+      },
+      {
+        "name": "Web Design",
+        "level": "90%"
+      },
+      {
+        "name": "Project Management",
+        "level": "80%"
+      },
+      {
+        "name": "Figma",
+        "level": "85%"
+      },
+      {
+        "name": "Adobe XD",
+        "level": "85%"
+      },
+      {
+        "name": "HTML",
+        "level": "90%"
+      },
+      {
+        "name": "CSS",
+        "level": "90%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "40%"
+      },
+      {
+        "name": "Python",
+        "level": "40%"
+      },
+      {
+        "name": "React.js",
+        "level": "30%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Secondhandbags AG",
+        "category": "Webdesign",
+        "image": "webdesign.svg",
+        "url": "https://www.secondhandbags.ch/"
+      },
+      {
+        "title": "R17 Ventures AG",
+        "category": "Webdesign",
+        "image": "webdesign.svg",
+        "url": "https://www.r17ventures.com/"
+      },
+      {
+        "title": "Beneva International AG",
+        "category": "Webdesign",
+        "image": "webdesign.svg",
+        "url": "https://www.benevablack.ch/"
+      },
+      {
+        "title": "7peppas AG",
+        "category": "Webdesign",
+        "image": "webdesign.svg",
+        "url": "https://www.7peppas.ch/"
+      },
+      {
+        "title": "Madisonclo GmbH",
+        "category": "Webdesign",
+        "image": "webdesign.svg",
+        "url": "https://www.madisonclo.com/"
+      },
+      {
+        "title": "Paastoa",
+        "category": "Webdesign",
+        "image": "webdesign.svg",
+        "url": "https://www.paastoa.com/"
+      },
+      {
+        "title": "Northventures GmbH",
+        "category": "Webdesign",
+        "image": "webdesign.svg",
+        "url": "https://www.northventures.ch/"
+      },
+      {
+        "title": "Michael Lechner",
+        "category": "Webdesign",
+        "image": "webdesign.svg",
+        "url": "https://www.michael-lechner.eu/"
+      },
+      {
+        "title": "Astro Life",
+        "category": "Webdesign",
+        "image": "webdesign.svg",
+        "url": "https://www.astro-life.ch/"
+      },
+      {
+        "title": "think digital",
+        "category": "Prototype",
+        "image": "prototype.svg",
+        "url": "https://xd.adobe.com/view/f3a0d8e7-674a-4b96-6fd3-6b03d1ae69e1-8591/"
+      },
+      {
+        "title": "John Maeda",
+        "category": "Prototype",
+        "image": "prototype.svg",
+        "url": "https://xd.adobe.com/view/a2cd9eee-8d0a-45ea-77e5-46933cd936f1-d4fc/"
+      },
+      {
+        "title": "todoo",
+        "category": "Repository",
+        "image": "github.svg",
+        "url": "https://github.com/amirzubi/todoo"
+      },
+      {
+        "title": "Facebook Data Visualizer",
+        "category": "Repository",
+        "image": "github.svg",
+        "url": "https://github.com/amirzubi/facebook-data-visualizer"
+      },
+      {
+        "title": "Morpheus",
+        "category": "Repository",
+        "image": "github.svg",
+        "url": "https://github.com/amirzubi/Morpheus"
+      },
+      {
+        "title": "Wordpress Code Snippets",
+        "category": "Repository",
+        "image": "github.svg",
+        "url": "https://github.com/amirzubi/wordpress-code-snippets"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Pascal war sehr responsive, unkompliziert und kosteneffizient bei top Design und technischer Umsetzung auch für die kontinuierliche Weiterentwicklung von hartmannventures.com. Kann ich nur uneingeschränkt weiterempfehlen!",
+        "user": "Manuel Hartmann"
+      },
+      {
+        "text": "Ich habe mit Amir die Fastenplattform Paastoa.com gegründet und aufgebaut. Er hat dabei in seiner Rolle als CTO & CDO die technische Konzeption und Entwicklung geleitet. Ich schätze an Amir seine grossen technischen Fähigkeiten im Bereich Wordpress und CSS in Kombination mit seinem guten Auge für's Design. Amir denkt und handelt unternehmerisch ist zielstrebig und gibt Vollgas!",
+        "user": "Raphael Rohner"
+      }
+    ]
+  }
+}
